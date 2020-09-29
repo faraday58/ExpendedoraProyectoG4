@@ -1,0 +1,7 @@
+C:\Users\jrodr\source\repos\ExpendedoraProyectoG4\bin\Debug\ExpendedoraProyectoG4.exe.config
+C:\Users\jrodr\source\repos\ExpendedoraProyectoG4\bin\Debug\ExpendedoraProyectoG4.exe
+C:\Users\jrodr\source\repos\ExpendedoraProyectoG4\bin\Debug\ExpendedoraProyectoG4.pdb
+C:\Users\jrodr\source\repos\ExpendedoraProyectoG4\obj\Debug\ExpendedoraProyectoG4.csprojAssemblyReference.cache
+C:\Users\jrodr\source\repos\ExpendedoraProyectoG4\obj\Debug\ExpendedoraProyectoG4.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\source\repos\ExpendedoraProyectoG4\obj\Debug\ExpendedoraProyectoG4.exe
+C:\Users\jrodr\source\repos\ExpendedoraProyectoG4\obj\Debug\ExpendedoraProyectoG4.pdb
